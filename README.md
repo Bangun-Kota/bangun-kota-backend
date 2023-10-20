@@ -1,19 +1,17 @@
-# NestJS Typescript template for Cyclic
+# bangunkota.com 
 
-[![Deploy to Cyclic](https://deploy.cyclic.app/button.svg)](https://deploy.cyclic.app/)
 
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
+  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="40" alt="Nest Logo" /></a>
+  <a href="" target="blank"><img src="./docs/image/bangunkota-logo.jpg" width="120" alt="Nest Logo" /></a>
 </p>
 
-[circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
-[circleci-url]: https://circleci.com/gh/nestjs/nest
   
-  <p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
+  <p align="center">Backend application for bangunkota.com using proggresive <a href="http://nodejs.org" target="_blank">Node.js</a> framework  </p>
    
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+this application will handle backend for bangunkota.com
 
 ## Installation
 
@@ -53,9 +51,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## Stay in touch
 
-- Author - [Kamil Myśliwiec](https://twitter.com/kammysliwiec)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+- Lembar Team
 
 ## License
 
